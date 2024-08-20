@@ -3,4 +3,4 @@ namedValues:
 - name: AppInsightsKey
   properties:
     keyVault:
-      secretIdentifier: https://kv-osk-apiops-dev-001.vault.azure.net/secrets/AppInsightsKey
+      secretIdentifier: https://kv-osk-apiops-prod-001.vault.azure.net/secrets/AppInsightsKey
