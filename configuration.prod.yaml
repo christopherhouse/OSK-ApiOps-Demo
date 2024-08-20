@@ -1,1 +1,6 @@
 apimServiceName: apim-osk-apiops-prod-001
+namedValues:
+- name: AppInsightsKey
+  properties:
+    keyVault:
+      secretIdentifier: https://kv-osk-apiops-dev-001.vault.azure.net/secrets/AppInsightsKey
